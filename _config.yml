@@ -11,7 +11,7 @@ carpentry: "swc"
 
 # Overall title for pages.
 title: "Workshop Title"
-
+title_long: "Longer Workshop Title" #"Software Carpentry Workshop (Unix Shell, Python and Git) at MUN."
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

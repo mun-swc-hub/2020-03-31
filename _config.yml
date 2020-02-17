@@ -35,8 +35,8 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
-title_long: "Longer Workshop Title" #"Software Carpentry Workshop (Unix Shell, Python and Git) at MUN."
+title: "Programming Workshop Series 2020"
+title_long: "Software Carpentry Workshop (Unix Shell, Version Control and Python) at MUN" #"Software Carpentry Workshop (Unix Shell, Python and Git) at MUN."
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

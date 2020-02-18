@@ -1,5 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
+carpentry: "swc" # what kind of Carpentry (must be either "lc" or "dc" or "swc").
 venue: "Memorial University of Newfoundland"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Chemistry-Physics Building, C-3053"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)

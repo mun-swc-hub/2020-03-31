@@ -17,7 +17,7 @@ carpentry: "swc"
 # value of the variable below ("flavor") to get the schedule updated accordingly
 # (valid values are 'r' or 'python').
 # Note: this is only for Data Carpentry curricula at this time.
-flavor: "python"
+flavor: "r"
 
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
@@ -26,7 +26,7 @@ flavor: "python"
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
 title: "Programming Workshop Series 2020"
-title_long: "Software Carpentry Workshop (Unix Shell, Version Control and Python) at MUN" #"Software Carpentry Workshop (Unix Shell, Python and Git) at MUN."
+title_long: "Software Carpentry Workshop (Unix Shell, Version Control and R) at MUN" #"Software Carpentry Workshop (Unix Shell, Python and Git) at MUN."
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
